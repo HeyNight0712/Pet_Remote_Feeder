@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Pet Remote Feeder</string>
     <string name="main_name">PRF 系統</string>
-    <string name="main_bluetooth_connect_button">藍芽連接</string>
+    <string name="main_bluetooth_connect_button">藍芽</string>
     <string name="app_version">0.0.1 bata</string>
+    <string name="main_PRF_setup_button">機器</string>
+    <string name="main_setup_button">設置</string>
 </resources>
